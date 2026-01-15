@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://doctorstra.github.io/sxcce-automation/sitemap.xml
