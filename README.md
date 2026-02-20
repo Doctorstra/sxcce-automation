@@ -10,7 +10,11 @@ A modern, secure, and SEO-optimized Next.js student portal for SXCCE. Access stu
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen)](https://sxcce-app.vercel.app)
 
+✅ [sxcce.engineer](https://sxcce.engineer)
 
+✅ [sxcce.dev](https://sxcce.dev)
+
+✅ [astlin-dijo.tech](https://astlin-dijo.tech)
 
 ## Images
 
@@ -22,15 +26,17 @@ A modern, secure, and SEO-optimized Next.js student portal for SXCCE. Access stu
 |---------|---------|---------|
 | ![img4](images/img4.jpeg) | ![img5](images/img5.jpeg) | ![img6](images/img6.jpeg) |
 
+
 ## Features
 
-- ✅ **Student Portal**: Login with phone number to access student information
+- ✅ **Student Portal**: Login with phone number or Roll number to access student information
 - ✅ **Multiple Services**: Access student details, attendance, fees, exam marks, and disciplinary records
 - ✅ **Security**: Comprehensive security headers and best practices
 - ✅ **SEO Optimized**: Meta tags, sitemap, robots.txt for Google indexing
 - ✅ **Modern UI**: Beautiful, responsive design with smooth animations
 - ✅ **TypeScript**: Full type safety
 - ✅ **Performance**: Optimized for speed and Core Web Vitals
+- ✅ **Gate Keeper**: (Middleware)
 
 ## Portal Features
 
@@ -43,7 +49,7 @@ A modern, secure, and SEO-optimized Next.js student portal for SXCCE. Access stu
 
 ## Usage
 
-1. Enter your 10-digit mobile number on the login page
+1. Enter your 10-digit mobile number or roll number on the login page
 2. Click "Login" to access the student portal
 3. Select any service from the menu
 4. Use the back button to return to the menu
@@ -58,6 +64,11 @@ A modern, secure, and SEO-optimized Next.js student portal for SXCCE. Access stu
 - Content Type Options
 - Referrer Policy
 - Permissions Policy
+- **Rate Limiting**: IP-based rate limiting (30 requests/min for normal traffic, 10 for bots)
+- **Bot Protection**: Automatic detection and blocking of malicious bots and scrapers
+- **DDoS Protection**: Automatic IP blocking after repeated violations
+- No index For Attendence Calculation page in SEO
+  
 
 ## 🛡️ Security & Maintenance Declaration
 
@@ -80,3 +91,4 @@ This project is actively maintained to ensure security, reliability, and perform
 ## License
 
 © 2026 Astlin Dijo. All rights reserved.
+
