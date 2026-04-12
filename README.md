@@ -26,6 +26,16 @@ A modern, secure, and SEO-optimized Next.js student portal for SXCCE. Access stu
 |---------|---------|---------|
 | ![img4](images/img4.jpeg) | ![img5](images/img5.jpeg) | ![img6](images/img6.jpeg) |
 
+## Website analytics
+
+| Image 1 | Image 2 | Image 3 |
+|---------|---------|---------|
+| ![img2](https://github.com/astlindijo/sxcce-automation/blob/main/images/image2.png) | ![img1](https://github.com/astlindijo/sxcce-automation/blob/main/images/image1.png) | ![img3](https://github.com/astlindijo/sxcce-automation/blob/main/images/image3.png) |
+
+| Image 4 |
+|---------|
+| ![img4](https://github.com/astlindijo/sxcce-automation/blob/main/images/image4.png) |
+
 
 ## Features
 
